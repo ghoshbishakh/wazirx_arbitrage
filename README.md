@@ -19,3 +19,4 @@ The scrpt can take into account the transaction fee of 0.2% as well as last pric
 The results are pretty much what I expected. If we consider last price, then there are many opportunities,
 but most of them are useless because of low volume of gap in buy/sell prices. When we consider buy and sell prices then the gain in arbitrage is so less that it will be used up in transaction fees. Therefore when we set the fee to 0.2% , we see that it returns nothing.
 
+![image](https://user-images.githubusercontent.com/5156787/126788615-31413f87-1845-459d-9a4b-699ea41eac2b.png)
